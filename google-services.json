@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649912332393",
+    "firebase_url": "https://tripsplittherising.firebaseio.com",
+    "project_id": "tripsplittherising",
+    "storage_bucket": "tripsplittherising.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649912332393:android:7d12c3bdb3c6cbdf",
+        "android_client_info": {
+          "package_name": "com.example.souravmunjal.tripsplittherising"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649912332393-sm34b9jvpkgvle07lj78d7jbp7cvmgbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.souravmunjal.tripsplittherising",
+            "certificate_hash": "1556850d4f6b6fc46a3c66d0b6a1b2599bebcc46"
+          }
+        },
+        {
+          "client_id": "649912332393-5o05mbqflgs6u87ff2216aff8c6fvghd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr0pREzr_3f4ah8xiquB7Y1nmdtJBDD0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649912332393-5o05mbqflgs6u87ff2216aff8c6fvghd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
